@@ -2,8 +2,8 @@
 public class HelloGitHub {
 
 	public static void main(String[] args) {
-		// TODO Ž©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
-		System.out.println("Hello, GitHub!!");
+		// TODO ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½\ï¿½bï¿½hï¿½Eï¿½Xï¿½^ï¿½u
+		System.out.println("Hello, GitHub->AIDE!!");
 	}
 
 }
